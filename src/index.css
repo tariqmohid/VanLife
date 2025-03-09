@@ -82,7 +82,7 @@ nav .container {
 /* Home */
 
 .home {
-    background-image: url('van-home.png');
+    background-image: url('/van-home.png');
     background-size: cover;
     color: #FFFFFF;
     padding: 4.125em 0;
